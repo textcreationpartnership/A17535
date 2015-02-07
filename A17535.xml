@@ -2219,7 +2219,10 @@ maiestie.</p>
                   <desc>•</desc>
                </gap>
 mendum solum.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:5120:40"/>
+               <figure/>
+            </p>
          </div>
       </back>
    </text>
